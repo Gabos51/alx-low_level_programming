@@ -4,7 +4,7 @@
 README.md
 
 
-TASKS 0. Poppy 
+TASKS 0. Poppy
 
 - Define a new type struct dog with the following elements:
 
@@ -14,7 +14,7 @@ owner, type = char *
 
 
 
-Task 1. A dog is the only thing on earth that loves you more than you love yourself 
+Task 1. A dog is the only thing on earth that loves you more than you love yourself
 
 - Write a function that initialize a variable of type struct dog
 Prototype: void init_dog(struct dog *d, char *name, float age, char *owner);
@@ -33,13 +33,13 @@ If d is NULL print nothing.
 
 
 
-TASK 3. Outside of a dog, a book is a man's best friend. Inside of a dog it's too dark to read 
+TASK 3. Outside of a dog, a book is a man's best friend. Inside of a dog it's too dark to read
 
 - Define a new type dog_t as a new name for the type struct dog.
 
 
 
-TASK 4. A door is what a dog is perpetually on the wrong side of 
+TASK 4. A door is what a dog is perpetually on the wrong side of
 
 - Write a function that creates a new dog.
 
@@ -54,4 +54,4 @@ TASK 5.  How many legs does a dog have if you call his tail a leg? Four. Saying 
 -Write a function that frees dogs.
 
 Prototype: void free_dog(dog_t *d);
-
+"RAEDME.md" 57L, 1434C                                                                                                                                                                           1,1           Top
